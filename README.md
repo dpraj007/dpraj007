@@ -10,7 +10,7 @@
 
 ### About Me
 
-Passionate about leveraging cutting-edge AI to automate workflows and solve complex problems. With a strong foundation in LLM agents and multimodal models, I specialize in building intelligent systems that drive efficiency and innovation. Currently pursuing an M.S. in Computer Science at NYU, I’m dedicated to exploring the intersection of AI, automation, and real-world applications.
+Passionate about leveraging cutting-edge AI to automate workflows and solve complex problems. With a strong foundation in LLM agents and multimodal models, I specialize in building intelligent systems that drive efficiency and innovation. Currently pursuing an M.S. in Computer Science at NYU with a perfect 4.0 GPA, I'm dedicated to exploring the intersection of AI, automation, and real-world applications.
 
 Let's connect to discuss how AI-driven solutions can transform industries.
 
@@ -18,13 +18,14 @@ Let's connect to discuss how AI-driven solutions can transform industries.
 
 ### 🔧 Technical Skills
 
-- **Languages:** Python, SQL, Bash, Java, JavaScript
-- **AI/ML:** CrewAI, Autogen, Langchain, LlamaIndex, PyTorch, scikit-learn, NLTK, TensorFlow.js, GPT-4, Whisper
-- **Cloud & DevOps:** Azure AI, Git, GitHub, Heroku, Docker, Kubernetes, GitHub Actions
-- **Web Development:** Flask, Vue.js, React, Node.js, Express.js, HTML, CSS, JavaScript
-- **Databases:** PostgreSQL, SQLite, Redis, MongoDB
+- **Programming Languages:** Python, JavaScript, TypeScript, Java, SQL, Bash
+- **Front-End Development:** HTML, CSS, React, Vue.js
+- **Back-End Development:** Node.js, Express.js, Flask, GraphQL
+- **Databases:** PostgreSQL, MongoDB, SQLite, Redis
+- **Cloud & DevOps:** Docker, Kubernetes, AWS (S3, Lambda, OpenSearch, API Gateway, DynamoDB, EKS, CloudFormation, EventBridge), Azure AI, Heroku
+- **AI/ML:** PyTorch, Scikit-learn, NLTK, Langchain, LlamaIndex, CrewAI, Autogen
 - **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, Power BI
-- **Other Tools:** RESTful APIs, Web Scraping (Selenium, BeautifulSoup), Prompt Engineering, Swagger/OpenAPI, SQLAlchemy, Twilio, Assembly AI, yt-dlp
+- **Other Tools:** Web Scraping (Selenium, BeautifulSoup), Prompt Engineering, Twilio, Assembly AI, yt-dlp
 
 ---
 
@@ -32,7 +33,9 @@ Let's connect to discuss how AI-driven solutions can transform industries.
 
 - **New York University**  
   *Master of Science in Computer Science*  
-  *Sept. 2024 – Present | New York, NY*
+  *Sept. 2024 – Present | New York, NY*  
+  *GPA: 4.0/4.0*  
+  *Courses: Cloud Computing, Deep Learning, Information Visualization*
 
 - **Indian Institute of Technology Madras**  
   *B.Sc in Data Science and Applications*  
@@ -47,36 +50,34 @@ Let's connect to discuss how AI-driven solutions can transform industries.
 
 ### 💼 Experience
 
-- **AI/ML Intern at KissanAI**  
-  *Aug. 2023 – July 2024 | Remote*  
-  - Developed a Proof of Concept (POC) for an AI-driven phone calling agent tailored to agriculture using Twilio, Flask, Assembly AI, GPT-4, and Retrieval-Augmented Generation (RAG).
-  - Engineered a multi-lingual knowledge extraction system for agricultural videos using yt-dlp for audio extraction, Whisper for speech-to-text conversion, and GPT-4 for data curation. Achieved 90% accuracy on a 100-video test set.
-  - Conducted large-scale analysis of 3.2 million Kissan Call Center interactions using pandas, performing topic-based and regional categorization. Integrated findings into an LLM via RAG, improving chatbot performance by 10%.
-  - Enhanced chatbot functionality by implementing LLM-driven SQL query generation, enabling real-time integration of market data into conversational responses.
+#### AI/ML Intern at KissanAI
+*Jan. 2024 – July 2024*
+- Developed an AI-driven phone calling agent using Twilio, Flask, Assembly AI, GPT-4, and RAG
+- Engineered a scalable multi-lingual synthetic data generation system achieving 90% accuracy
+- Analyzed 3.2M Kissan Call Center interactions, improving chatbot performance by 10%
+- Implemented LLM-driven SQL query generation for real-time market data integration
 
-- **Generative AI Intern at Appexigo**  
-  *Mar. 2023 – Aug. 2023 | Remote*  
-  - Created a Python solution to parse government job advertisements from image-based PDFs, improving productivity by 10x and maintaining 80% accuracy.
-  - Automated data extraction processes, reducing manual labor for a team of 10, significantly cutting operational costs.
-  - Implemented vector embedding techniques using Pinecone, ChromaDB, and FAISS, increasing job recommendation accuracy by 25%.
+#### Generative AI Intern at Appexigo
+*Mar. 2023 – Aug. 2023*
+- Developed Python solution for parsing government job advertisements with 80% accuracy
+- Implemented vector embedding techniques improving recommendation accuracy by 25%
+- Automated data extraction processes reducing manual labor for a team of 10
 
 ---
 
-### 🛠️ Projects
+### 🔬 Research Projects
 
-- **AI-Driven FinTech Orchestrator**  
-  *May 2024*  
-  - Engineered a full-stack, AI-powered loan processing system using React, Node.js, and MongoDB, integrating LLaMA 3 70b using Hugging Face API for advanced NLP.
-  - Implemented microservices architecture with Docker and Kubernetes, facilitating CI/CD through GitHub Actions for streamlined deployment and testing.
-  - Developed RESTful APIs with Express.js, documented using Swagger/OpenAPI.
-  - **Technologies:** Python, React, Node.js, Docker, Kubernetes, TensorFlow.js
+#### Improving LLM's Code Generation on Niche Libraries
+*Dec. 2024*
+- Developed synthetic dataset generation pipeline for fine-tuning and knowledge removal
+- Engineered framework to fine-tune and unlearn outdated parameters in Codellama-7B
+- Achieved superior semantic alignment (CODEBERT: 0.9517) using LoRA and gradient ascent-based selective forgetting
 
-- **Crop Yield Prediction with LLM Integration**  
-  *Apr. 2023*  
-  - Developed a novel approach for crop yield prediction using machine learning techniques, implementing five feature selection methods and introducing a new Modified Recursive Feature Elimination (MRFE) method.
-  - Integrated LLM capabilities to provide actionable suggestions to farmers based on the crop predictions, improving system utility.
-  - Achieved 84.77% accuracy using Random Forest, outperforming traditional crop yield prediction methods and potentially improving agricultural decision-making.
-  - **Technologies:** Python, Machine Learning, LLM, Feature Selection
+#### Source Code Vulnerability Detector
+*Sept-Dec. 2024*
+- Built cloud-native tool for automated security scanning of GitHub repositories
+- Integrated fine-tuned Qwen 2.5 Coder 7B model trained on 300,000 entries
+- Developed optimized version for Snapdragon X Elite laptops using LM Studio
 
 ---
 
@@ -90,8 +91,8 @@ Let's connect to discuss how AI-driven solutions can transform industries.
 
 ### 🤝 Let's Connect
 
-Feel free to reach out if you want to collaborate on any projects or just want to connect.
+Feel free to reach out if you want to collaborate on projects or discuss AI innovations. Located in Brooklyn, New York.
 
 ---
 
-*"Exploring the intersection of AI, automation, and real-world applications to transform industries."*
+*"Transforming industries through AI innovation and intelligent automation"*
