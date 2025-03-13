@@ -1,6 +1,6 @@
 # Dhairyasheel Patil
 
-### AI/ML Enthusiast | MS in Computer Science at NYU
+### AI/ML Engg. | MS in Computer Science at NYU
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhairyasheel-patil-1013b199)
 [![Email](https://img.shields.io/badge/Email-d.d.patil700%40gmail.com-red?logo=gmail&logoColor=white)](mailto:d.d.patil700@gmail.com)
