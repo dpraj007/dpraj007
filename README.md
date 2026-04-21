@@ -131,7 +131,11 @@ Cloud-native scanner built on a fine-tuned `Qwen-2.5-Coder-7B` trained over 300k
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dpraj007&bg_color=0d1117&color=c9d1d9&line=7B68EE&point=ffffff&area=true&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dpraj007/dpraj007/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dpraj007/dpraj007/output/github-snake.svg" />
+  <img alt="dpraj007's contribution snake" src="https://raw.githubusercontent.com/dpraj007/dpraj007/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
