@@ -1,98 +1,157 @@
-# Dhairyasheel Patil
+<div align="center">
 
-### AI/ML Engg. | MS in Computer Science at NYU
+<a href="https://github.com/dpraj007">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=7B68EE&center=true&vCenter=true&width=780&lines=Dhairyasheel+Patil;Applied+GenAI+%C2%B7+LLM+Agents+%C2%B7+Multimodal+Systems;MS+CS+%40+NYU+%E2%80%94+4.0+GPA;Shipping+small%2C+weird%2C+useful+tools" alt="Typing intro" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhairyasheel-patil-1013b199)
-[![Email](https://img.shields.io/badge/Email-d.d.patil700%40gmail.com-red?logo=gmail&logoColor=white)](mailto:d.d.patil700@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-dpraj007-black?logo=github&logoColor=white)](https://github.com/dpraj007)
+<br/>
 
----
+<a href="https://linkedin.com/in/dhairyasheel-patil-1013b199"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:d.d.patil700@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://twitter.com/DhairyasheelPa5"><img alt="Twitter" src="https://img.shields.io/badge/%40DhairyasheelPa5-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<img alt="Location" src="https://img.shields.io/badge/Brooklyn%2C%20NY-111111?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=dpraj007&style=for-the-badge&color=7B68EE&label=VISITORS"/>
 
-### About Me
-
-Passionate about leveraging cutting-edge AI to automate workflows and solve complex problems. With a strong foundation in LLM agents and multimodal models, I specialize in building intelligent systems that drive efficiency and innovation. Currently pursuing an M.S. in Computer Science at NYU with a perfect 4.0 GPA, I'm dedicated to exploring the intersection of AI, automation, and real-world applications.
-
-Let's connect to discuss how AI-driven solutions can transform industries.
-
----
-
-### 🔧 Technical Skills
-
-- **Programming Languages:** Python, JavaScript, TypeScript, Java, SQL, Bash
-- **Front-End Development:** HTML, CSS, React, Vue.js
-- **Back-End Development:** Node.js, Express.js, Flask, GraphQL
-- **Databases:** PostgreSQL, MongoDB, SQLite, Redis
-- **Cloud & DevOps:** Docker, Kubernetes, AWS (S3, Lambda, OpenSearch, API Gateway, DynamoDB, EKS, CloudFormation, EventBridge), Azure AI, Heroku
-- **AI/ML:** PyTorch, Scikit-learn, NLTK, Langchain, LlamaIndex, CrewAI, Autogen
-- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, Power BI
-- **Other Tools:** Web Scraping (Selenium, BeautifulSoup), Prompt Engineering, Twilio, Assembly AI, yt-dlp
+</div>
 
 ---
 
-### 🎓 Education
+### whoami
 
-- **New York University**  
-  *Master of Science in Computer Science*  
-  *Sept. 2024 – Present | New York, NY*  
-  *GPA: 4.0/4.0*  
-  *Courses: Cloud Computing, Deep Learning, Information Visualization*
-
-- **Indian Institute of Technology Madras**  
-  *B.Sc in Data Science and Applications*  
-  *Jan. 2021 – Apr. 2024 | Chennai, Tamil Nadu*
-
-- **Savitribai Phule Pune University**  
-  *B.E. in Computer Engineering*  
-  *Aug. 2019 – May 2023 | Pune, Maharashtra*  
-  *GPA: 3.7/4.0*
+```yaml
+role:       Applied GenAI Engineer
+focus:      LLM agents · multimodal grounding · on-device inference · dev tooling
+currently:  M.S. Computer Science @ NYU  (GPA 4.0 / 4.0)
+background: AI/ML Intern @ KissanAI  ·  GenAI Intern @ Appexigo
+stack:      Python · Rust · TypeScript · PyTorch · LangChain · AWS · CUDA
+vibe:       ship fast, break the right things, write the README after
+```
 
 ---
 
-### 💼 Experience
+### What I'm shipping right now
 
-#### AI/ML Intern at KissanAI
-*Jan. 2024 – July 2024*
-- Developed an AI-driven phone calling agent using Twilio, Flask, Assembly AI, GPT-4, and RAG
-- Engineered a scalable multi-lingual synthetic data generation system achieving 90% accuracy
-- Analyzed 3.2M Kissan Call Center interactions, improving chatbot performance by 10%
-- Implemented LLM-driven SQL query generation for real-time market data integration
+<table>
+<tr>
+<td width="50%" valign="top">
 
-#### Generative AI Intern at Appexigo
-*Mar. 2023 – Aug. 2023*
-- Developed Python solution for parsing government job advertisements with 80% accuracy
-- Implemented vector embedding techniques improving recommendation accuracy by 25%
-- Automated data extraction processes reducing manual labor for a team of 10
+#### [whisprflow](https://github.com/dpraj007/whisprflow)
+Real-time speech-to-text for **Windows ARM** laptops. Hold `Ctrl+Win` to dictate — powered by **Whisper Large V3 Turbo** running on Qualcomm's NPU.
+<br/>
+`python` · `onnx` · `qualcomm-npu`
+
+</td>
+<td width="50%" valign="top">
+
+#### [cli](https://github.com/dpraj007/cli)
+Google Workspace **CLI in Rust** — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat & Admin. Dynamically built from the Google Discovery Service. Ships with AI-agent skills.
+<br/>
+`rust` · `google-workspace` · `agent-skills`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [openfang](https://github.com/dpraj007/openfang)
+**Open-source Agent Operating System** — a Rust runtime for composing, orchestrating, and supervising long-running agent workloads.
+<br/>
+`rust` · `agent-os` · `runtime`
+
+</td>
+<td width="50%" valign="top">
+
+#### [CC_Manager](https://github.com/dpraj007/CC_Manager-)
+**Cloud Console automation** manager — scripts, flows, and guardrails for wrangling cloud consoles without clicking through 14 panels.
+<br/>
+`python` · `automation` · `cloud`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [latex_spaces](https://github.com/dpraj007/latex_spaces)
+Edit **LaTeX efficiently with AI** — opinionated editor for people who write math faster than they click menus.
+<br/>
+`javascript` · `latex` · `ai-editor`
+
+</td>
+<td width="50%" valign="top">
+
+#### [cell_segmentation_x_Classification](https://github.com/dpraj007/cell_segmentation_x_Classification)
+Multi-organ **nuclei instance segmentation + classification** on the MoNuSAC dataset. CS-GY 6643 competition track at NYU Tandon.
+<br/>
+`pytorch` · `instance-seg` · `pathology`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🔬 Research Projects
+### Research
 
-#### Improving LLM's Code Generation on Niche Libraries
-*Dec. 2024*
-- Developed synthetic dataset generation pipeline for fine-tuning and knowledge removal
-- Engineered framework to fine-tune and unlearn outdated parameters in Codellama-7B
-- Achieved superior semantic alignment (CODEBERT: 0.9517) using LoRA and gradient ascent-based selective forgetting
+**Improving LLM Code Generation on Niche Libraries** — _Dec 2024_
+Synthetic-dataset pipeline to fine-tune **and unlearn** stale knowledge in `Codellama-7B`. LoRA for learning, gradient-ascent selective forgetting for unlearning. **CODEBERT 0.9517** on semantic alignment.
 
-#### Source Code Vulnerability Detector
-*Sept-Dec. 2024*
-- Built cloud-native tool for automated security scanning of GitHub repositories
-- Integrated fine-tuned Qwen 2.5 Coder 7B model trained on 300,000 entries
-- Developed optimized version for Snapdragon X Elite laptops using LM Studio
+**Source-Code Vulnerability Detector** — _Sept–Dec 2024_
+Cloud-native scanner built on a fine-tuned `Qwen-2.5-Coder-7B` trained over 300k samples. Optimised variant runs locally on **Snapdragon X Elite** via LM Studio.
 
 ---
 
-### 📊 GitHub Stats
+### Tech I reach for
 
-![Dhairyasheel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpraj007&show_icons=true&theme=radical)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,rust,ts,js,java,bash,pytorch,tensorflow,sklearn&perline=9" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,graphql,postgres,mongodb,redis,sqlite&perline=9" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git,github,vscode,figma&perline=9" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dpraj007&layout=compact&theme=radical)
+`LangChain` · `LlamaIndex` · `CrewAI` · `Autogen` · `Transformers` · `ONNX Runtime` · `Selenium` · `Playwright` · `Twilio` · `AssemblyAI`
 
 ---
 
-### 🤝 Let's Connect
+### GitHub in numbers
 
-Feel free to reach out if you want to collaborate on projects or discuss AI innovations. Located in Brooklyn, New York.
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dpraj007&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=7B68EE&text_color=c9d1d9&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpraj007&layout=compact&langs_count=8&hide_border=true&title_color=7B68EE&text_color=c9d1d9&bg_color=0d1117" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dpraj007&hide_border=true&background=0d1117&stroke=0d1117&ring=7B68EE&fire=7B68EE&currStreakLabel=7B68EE&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideNums=c9d1d9" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=dpraj007&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dpraj007&bg_color=0d1117&color=c9d1d9&line=7B68EE&point=ffffff&area=true&hide_border=true" />
+
+</div>
 
 ---
 
-*"Transforming industries through AI innovation and intelligent automation"*
+### Education
+
+| School | Degree | Dates | Notes |
+| --- | --- | --- | --- |
+| **New York University** | M.S. Computer Science | Sept 2024 – Present | GPA **4.0 / 4.0** · Cloud Computing, Deep Learning, InfoVis |
+| **IIT Madras** | B.Sc. Data Science & Applications | Jan 2021 – Apr 2024 | — |
+| **SPPU, Pune** | B.E. Computer Engineering | Aug 2019 – May 2023 | GPA 3.7 / 4.0 |
+
+---
+
+<div align="center">
+
+**Open to collaborations on AI agents, on-device ML, and dev tooling.**
+Ping me on [LinkedIn](https://linkedin.com/in/dhairyasheel-patil-1013b199) or [email](mailto:d.d.patil700@gmail.com).
+
+<sub><i>"Ship fast, break the right things, write the README after."</i></sub>
+
+</div>
